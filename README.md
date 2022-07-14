@@ -49,12 +49,12 @@ st.text(pwd_gen(l))
 ___
 
 #UI:
-![alt text]()
+![alt text](https://github.com/nitish9413/Password_Generator/blob/main/UI.png "Application UI")
 ___
 
 # How to use
 
-#### clone this repo
+#### Clone this repo
 
 ```Python
 git clone https://github.com/nitish9413/Password_Generator.git
