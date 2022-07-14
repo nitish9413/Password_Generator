@@ -8,11 +8,11 @@
 
 ## Code
 ### Import Required Modules 
-'''Python
+```Python
 import random
 import string
 import streamlit as st
-'''
+```
 
 ### Create a function pwd_gen() which will generate a Password
 
