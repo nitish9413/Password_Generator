@@ -1,6 +1,6 @@
 # Password_Generator
 
-## [Try](https://nitish9413-password-generator-password-gen-e9dids.streamlitapp.com/)
+## [Click here to try](https://nitish9413-password-generator-password-gen-e9dids.streamlitapp.com/)
 
 ### Modules Used
 1. Random
