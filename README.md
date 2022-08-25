@@ -1,4 +1,4 @@
-# Password_Generator
+# Password_Generator advanced options
 
 ## [Click here to try](https://nitish9413-password-generator-password-gen-e9dids.streamlitapp.com/)
 
